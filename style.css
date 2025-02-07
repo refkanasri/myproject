@@ -9,7 +9,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #08b2c9; /* Updated background color */
   color: #333;
   padding: 20px;
 }
@@ -40,7 +40,7 @@ a:hover {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #ffffff; /* Updated background color */
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
